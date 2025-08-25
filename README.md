@@ -23,6 +23,9 @@ level, it is possible to execute the widgets demo with a value between 30 and 45
 rendering from the benchmark demo slowdowns to around 10FPS. This is achieved using 16-bit color depth and
 extra optimization is done by making the DMA to handle the SPI transfer between the MCU and the LCD.
 
+Check you the FRDM-MCXN947 in action running LVGL benchmark demo:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZjiXdVTF0I0/0.jpg)](https://www.youtube.com/watch?v=ZjiXdVTF0I0)
+
 ## Specification
 
 ### CPU and Memory
