@@ -34,6 +34,7 @@
     "logos": [
         "https://raw.githubusercontent.com/lvgl/project-creator/master/meta/images/nxp/logo.svg"
     ],
+    "image": "https://raw.githubusercontent.com/lvgl/lv_port_nxp_frdm_mcxn947/master/board_image/frdm_mcxn947.webp",
     "branches": [
         "release/v9.2"
     ],
